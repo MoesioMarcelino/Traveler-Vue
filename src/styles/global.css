@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-family: Heebo, sans-serif;
 }
+
+button, a {
+    cursor: pointer;
+}

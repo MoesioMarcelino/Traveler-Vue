@@ -13,6 +13,7 @@
         'label-visible': label.length && value.length,
       }"
       v-model="value"
+      autocomplete
     />
   </div>
 </template>
@@ -73,6 +74,10 @@ label {
   z-index: 2;
   font-size: 12px;
   color: #a0acb3;
+
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 input {
@@ -86,6 +91,10 @@ input {
   font-size: 16px;
   line-height: 24px;
   color: #617480;
+
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 .label-visible {

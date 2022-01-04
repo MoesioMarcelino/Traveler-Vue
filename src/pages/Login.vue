@@ -2,6 +2,7 @@
   <div class="container">
     <div class="content image" />
     <div class="content login-content">
+      <Title title="Fazer login" />
       <Input
         label="E-mail"
         name="email"
@@ -26,10 +27,11 @@
 
 <script>
 import Input from "../components/Input.vue"
+import Title from "../components/Title.vue"
 
 export default {
   name: "Login",
-  components: { Input },
+  components: { Input, Title },
   data: () => ({
     email: "",
     password: "",

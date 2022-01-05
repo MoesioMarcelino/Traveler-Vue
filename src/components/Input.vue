@@ -14,6 +14,7 @@
       }"
       v-model="value"
       autocomplete
+      @change="$emit('changed', { value: $event.target.value, type })"
     />
   </div>
 </template>

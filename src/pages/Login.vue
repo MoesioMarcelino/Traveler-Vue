@@ -71,7 +71,7 @@ export default {
         return
       }
 
-      this.$router.push("/login")
+      this.$router.push("/dashboard")
     },
     onInputChanged(props) {
       if (props.type === "email") {

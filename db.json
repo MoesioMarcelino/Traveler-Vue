@@ -1,0 +1,52 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "title": "Águas Mornas",
+            "url": "https://hweb-upload.s3-sa-east-1.amazonaws.com/587fc4cec19a4713c4c007d7/af3c29b0b50a4a6aa134f44946ca0ffc.jpg",
+            "total": 13
+        },
+        {
+            "id": 2,
+            "title": "Bombinhas",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Canto_Grande_Mariscal_Bombinhas.jpg",
+            "total": 24
+        },
+        {
+            "id": 3,
+            "title": "Blumenau",
+            "url": "https://www.dicasdeviagem.com/wp-content/uploads/2019/04/hoteis-blumenau.jpg",
+            "total": 26
+        },
+        {
+            "id": 4,
+            "title": "Florianópolis",
+            "url": "https://a.cdn-hotels.com/gdcs/production182/d720/6de0e459-327d-41f3-91fb-f759cdb6098a.jpg",
+            "total": 96
+        },
+        {
+            "id": 5,
+            "title": "Imbitubas",
+            "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d7/f2/b9/img-20170226-165029-484.jpg?w=700&h=500&s=1",
+            "total": 61
+        },
+        {
+            "id": 6,
+            "title": "Jaragua do Sul",
+            "url": "https://guardemais.com.br/wp-content/uploads/2020/04/jaragua-do-sul-santa-catarina.jpg",
+            "total": 41
+        },
+        {
+            "id": 7,
+            "title": "Lages",
+            "url": "https://www.plano-de-saude-saopaulo.com.br/wp-content/uploads/2018/07/planos-de-saude-lages-sc.jpg",
+            "total": 19
+        },
+        {
+            "id": 8,
+            "title": "Rio do Sul",
+            "url": "https://www.jav.inf.br/wp-content/uploads/2018/07/Rio-do-Sul-%C3%A9-a-terceira-cidade-mais-desenvolvida-deSC.jpg",
+            "total": 27
+        }
+    ]
+}

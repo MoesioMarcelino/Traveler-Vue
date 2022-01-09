@@ -24,5 +24,6 @@ export default {
   margin-left: 96px;
   background-color: #f5f8fa;
   height: 100vh;
+  overflow: hidden;
 }
 </style>

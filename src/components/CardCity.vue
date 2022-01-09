@@ -45,6 +45,7 @@ export default {
 .image-card-city {
   display: flex;
   flex: 1;
+  height: 160px;
 }
 
 .content-card-city {

@@ -1,12 +1,12 @@
 <template>
-  <span>{{ title }}</span>
+  <span>{{ label }}</span>
 </template>
 
 <script>
 export default {
   name: "Title",
   props: {
-    title: {
+    label: {
       type: String,
       default: "",
     },

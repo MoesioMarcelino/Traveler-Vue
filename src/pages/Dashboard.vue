@@ -1,6 +1,11 @@
 <template>
-  <Sidebar />
-  <router-view path="$router.key" />
+  <div class="dashboard-container-content">
+    <Sidebar />
+
+    <div class="content-pages-dashboard">
+      <router-view></router-view>
+    </div>
+  </div>
 </template>
 
 <script>
@@ -14,4 +19,8 @@ export default {
 }
 </script>
 
-<style scoped></style>
+<style scoped>
+.content-pages-dashboard {
+  margin-left: 96px;
+}
+</style>

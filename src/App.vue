@@ -1,11 +1,5 @@
 <template>
-  <router-view path="$router.key" />
+  <router-view></router-view>
 </template>
 
-<script>
-import "./styles/global.css"
-
-export default {
-  name: "App",
-}
-</script>
+<style></style>

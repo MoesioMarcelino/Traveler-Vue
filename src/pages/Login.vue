@@ -5,7 +5,7 @@
     </div>
     <div class="content">
       <div class="login-content">
-        <Title title="Fazer login" class="login-title" />
+        <Title label="Fazer login" class="login-title" />
         <form @submit="onSubmit">
           <Input
             label="E-mail"

@@ -22,5 +22,7 @@ export default {
 <style scoped>
 .content-pages-dashboard {
   margin-left: 96px;
+  background-color: #f5f8fa;
+  height: 100vh;
 }
 </style>

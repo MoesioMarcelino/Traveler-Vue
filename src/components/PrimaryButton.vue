@@ -18,6 +18,10 @@ export default {
       type: Boolean,
       default: false,
     },
+    height: {
+      type: Number,
+      default: 72,
+    },
   },
 }
 </script>

@@ -1,24 +1,35 @@
-# traveler
+# :newspaper:Traveler
 
-## Project setup
-```
-yarn install
-```
+Repository dedicated to study vue js application
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Installation
 
-### Compiles and minifies for production
-```
-yarn build
+Use [yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#debian-stable) or the node package manager [npm](https://www.npmjs.com/get-npm) to install the application.
+
+Run
+```bash
+yarn
+// or npm install
 ```
 
-### Lints and fixes files
-```
-yarn lint
+## Running
+
+```bash
+yarn start
+// Or npm start
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Testing
+
+```bash
+yarn test
+// Or npm test
+```
+
+## Contributing / Sugestions
+All sugestions and contributions are welcome! In this case, contact me through the links below
+
+## Networking
+- [Portfolio](https://moesiomarcelino.com)
+- [GitHub](https://github.com/MoesioMarcelino)
+- [Linkedin](https://br.linkedin.com/in/mo%C3%A9sio-marcelino-2348a5152)
